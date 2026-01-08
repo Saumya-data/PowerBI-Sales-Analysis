@@ -67,7 +67,8 @@ The goal is to support **data-driven business decisions** related to sales perfo
 ---
 
 ## Project Structure
-PowerBI-Sales-Analysis/
+PowerBI-Sales-Analysis
+
 │
 ├── data/
 │ └── raw/ # Raw sales dataset
