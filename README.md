@@ -70,14 +70,23 @@ The goal is to support **data-driven business decisions** related to sales perfo
 PowerBI-Sales-Analysis
 
 │
+
 ├── data/
+
 │ └── raw/ # Raw sales dataset
+
 │
+
 ├── images/
+
 │ └── dashboard_preview.png
+
 │
+
 ├── Pizza_sales_dashboard.pbix # Power BI dashboard file
+
 ├── README.md
+
 
 
 
